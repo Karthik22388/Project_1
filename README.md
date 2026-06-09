@@ -1,7 +1,7 @@
 # Project_1
 Sales Management System
 # 📊 Sales Management System
-with
+
 ## 🚩 Problem Statement
 Organizations operating across multiple branches often face challenges in tracking sales, managing payment collections, monitoring pending amounts, and maintaining structured financial records.  
 Manual tracking methods may result in:
